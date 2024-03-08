@@ -1,4 +1,4 @@
-welcome to the simple django chat room
+Welcome to the simple django chat room!
 
 
 Installation:

@@ -19,7 +19,7 @@ FOR LINUX
 
 
 navigate to the browser and open two or more tabs on http://127.0.0.1:8000/room/room1
-ps: room1 is the room name that the users have a chat on it can be anythong else
+PS: room1 is the room name that the users have a chat on it can be anything else like http://127.0.0.1:8000/room/blabla, http://127.0.0.1:8000/room/hello,...
 
 start writing messages
 
